@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Syed Hadi, a 2nd-year student at Toronto Metropolitan University (TMU) with a passion for Software Engineering.<br>🎓 I’m pursuing a Computer Science degree, aiming to graduate in 2028.<br>📚 Learn more about me @https://syed40h.github.io/Portfolio/</p>
+<p align="left">👋 Hi, I’m Syed Hadi, a first-year co-op student at Toronto Metropolitan University (TMU) with a deep passion for Software Engineering.<br>🎓 I’m pursuing a Computer Science degree, aiming to graduate in 2028.<br>📚 Learn more about me @https://syed40h.github.io/Portfolio/<br>🎯 Seeking high-impact SWE Internship roles where I can grow fast and build smarter</p>
 
 ###
 
@@ -71,5 +71,9 @@
 <br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H&"  />
+
+###
+
+<p align="left">I just wanna make alot of money and tell people money isn't everything 😇</p>
 
 ###
