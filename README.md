@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Syed Hadi, a first-year co-op student at Toronto Metropolitan University (TMU) with a deep passion for Software Engineering.<br>🎓 I’m pursuing a Computer Science degree, aiming to graduate in 2028.<br>📚 Learn more about me @https://syed40h.github.io/Portfolio/</p>
+<p align="left">👋 Hi, I’m Syed Hadi, a 2nd-year student at Toronto Metropolitan University (TMU) with a passion for Software Engineering.<br>🎓 I’m pursuing a Computer Science degree, aiming to graduate in 2028.<br>📚 Learn more about me @https://syed40h.github.io/Portfolio/</p>
 
 ###
 
