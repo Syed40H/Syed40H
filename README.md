@@ -18,15 +18,7 @@ me.say_hi()
 # *"Seeking Software Engineering Internship opportunities"*
 ```
 
-<h4> Interests</h4>
-
-<ul>
-  <li>Backend Development</li>
-  <li>Cloud Computing & DevOps (Docker, Kubernetes)</li>
-  <li>System Design & Scalable Software</li>
-  <li>Algorithms and Problem Solving</li>
-</ul>
-
+<h4> Interests</h4> *Full Development - Cloud Computing - DevOps*
 <h4> Skills</h4>
 
 <ul>
