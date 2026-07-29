@@ -15,6 +15,7 @@ me = SoftwareEngineer()
 me.say_hi()
 
 # Currently learning Docker, Kubernetes, Cloud Computing, and System Design
+# *"Seeking Software Engineering Internship opportunities"*
 ```
 
 <h4> Interests</h4>
@@ -32,7 +33,3 @@ me.say_hi()
   <li>Full-stack development (Java, C++, Python, JavaScript, React, Node.js, Express)</li>
   <li>Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)</li>
 </ul>
-
---- 
-
- *"Seeking Software Engineering Internship opportunities"*  
