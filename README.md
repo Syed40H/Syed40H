@@ -1,7 +1,3 @@
-<p align="right" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
-  Hey there👋
-</p>
-
 ```python
 #!/usr/bin/python3
 
