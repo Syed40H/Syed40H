@@ -17,7 +17,6 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-interst
 ```
 
 <h4> Interests</h4>
@@ -36,16 +35,7 @@ interst
   <li>Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)</li>
 </ul>
 
-I'm currently learning Kubernetes, Docker, system design, and cloud technologies while building personal projects to strengthen my software engineering experience. I'm actively seeking Software Engineering internship opportunities where I can learn, grow, and contribute to impactful products.
-
-
-
-
-#![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H)
-
-- 💻 Passionate about Software Engineering and Backend Development
 - 🌱 Currently learning Docker, Kubernetes, Cloud Computing, and System Design
-- 🚀 Building projects to strengthen my software engineering skills
 - 🎯 Seeking Software Engineering Internship opportunities
 
 ## 📌 Featured Projects
@@ -57,4 +47,4 @@ I'm currently learning Kubernetes, Docker, system design, and cloud technologies
 
 ---
 
-> *"Always learning. Always building."*
+> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H) *"Always learning. Always building."*
