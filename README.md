@@ -18,7 +18,7 @@ me.say_hi()
 # *"Seeking Software Engineering Internship opportunities"*
 ```
 
-<h4> Interests</h4> *Full Development - Cloud Computing - DevOps*
+<h4> Interests</h4> *"Full Development - Cloud Computing - DevOps*"
 <h4> Skills</h4>
 
 <ul>
