@@ -23,5 +23,5 @@ me.say_hi()
   <strong>Full-Stack • Cloud Computing • DevOps</strong>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H"
        alt="Visitors"
-       style="vertical-align: middle; margin-left: 8px;">
+       style="vertical-align: middle; margin-right: 8px;">
 </p>
