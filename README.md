@@ -38,13 +38,6 @@ me.say_hi()
 - 🌱 Currently learning Docker, Kubernetes, Cloud Computing, and System Design
 - 🎯 Seeking Software Engineering Internship opportunities
 
-## 📌 Featured Projects
-
-- ☸️ Kubernetes Demo Application
-- 🏎️ F1-25 League Tracker
-- 🤖 Voice AI Assistant
-- 📱 Cross-Platform Mobile Application
-
 ---
 
 > ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H) *"Always learning. Always building."*
