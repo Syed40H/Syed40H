@@ -19,7 +19,7 @@ me.say_hi()
 # Tech (Java, C++, Python, JavaScript, React, Node.js, Express)
 # Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)
 ```
-<p align="left" style="display:flex; justify-content:space-between; align-items:center;">
+<p align="center">
   <strong>Full-Stack • Cloud Computing • DevOps</strong>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H">
 </p>
