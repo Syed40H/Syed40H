@@ -16,10 +16,7 @@ me.say_hi()
 
 # Currently learning Docker, Kubernetes, Cloud Computing, and System Design
 # *"Seeking Software Engineering Internship opportunities"*
+# Tech (Java, C++, Python, JavaScript, React, Node.js, Express)
+# Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)
 ```
 ** Full-Stack - Cloud Computing - DevOps **
-
-<ul>
-  <li>Tech (Java, C++, Python, JavaScript, React, Node.js, Express)</li>
-  <li>Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)</li>
-</ul>
