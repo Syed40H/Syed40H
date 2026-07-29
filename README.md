@@ -17,6 +17,7 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+Currently learning Docker, Kubernetes, Cloud Computing, and System Design
 ```
 
 <h4> Interests</h4>
@@ -35,9 +36,6 @@ me.say_hi()
   <li>Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)</li>
 </ul>
 
-- 🌱 Currently learning Docker, Kubernetes, Cloud Computing, and System Design
-- 🎯 Seeking Software Engineering Internship opportunities
-
 ---
 
-> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H) *"Always learning. Always building."*
+> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H) *"Seeking Software Engineering Internship opportunities"*
