@@ -1,4 +1,4 @@
-> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H) <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
+<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
   Hey there👋
 </p>
 
