@@ -1,3 +1,20 @@
+```python
+#!/usr/bin/python3
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Syed Hadi"
+        self.role = "Computer Science Student"
+        self.school = "Toronto Metropolitan University 🇨🇦"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Feel free to check out my projects.")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
   Hi 👋. I'm Syed Hadi
   <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13" alt="Canada Flag"/>
@@ -28,37 +45,7 @@ I'm currently learning Kubernetes, Docker, system design, and cloud technologies
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H)
 
-```python
-#!/usr/bin/python3
 
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Syed Hadi"
-        self.role = "Computer Science Student"
-        self.school = "Toronto Metropolitan University 🇨🇦"
-        self.languages = [
-            "Java",
-            "Python",
-            "C++",
-            "JavaScript"
-        ]
-
-    def interests(self):
-        return [
-            "Backend Development",
-            "Cloud Computing",
-            "DevOps",
-            "System Design",
-            "Software Engineering"
-        ]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Feel free to check out my projects.")
-
-me = SoftwareEngineer()
-me.say_hi()
-```
 
 ## 👨‍💻 About Me
 
