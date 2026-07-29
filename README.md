@@ -1,7 +1,7 @@
 ```python
-#!/usr/bin/python3
+#!/usr/bin/python3                                  Hey there👋
 
-class SoftwareEngineer:
+class SoftwareEngineer:                        
 
     def __init__(self):
         self.name = "Syed Hadi"
@@ -34,4 +34,4 @@ Currently learning Docker, Kubernetes, Cloud Computing, and System Design
 
 --- 
 
- *"Seeking Software Engineering Internship opportunities"* 
+ *"Seeking Software Engineering Internship opportunities"*  
