@@ -1,5 +1,5 @@
 ```python
-#!/usr/bin/python3/Hey there👋                                  
+#!/usr/python3/Hey there👋                                  
 
 class SoftwareEngineer:                        
 
@@ -13,7 +13,8 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-Currently learning Docker, Kubernetes, Cloud Computing, and System Design
+
+# Currently learning Docker, Kubernetes, Cloud Computing, and System Design
 ```
 
 <h4> Interests</h4>
