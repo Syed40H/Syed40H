@@ -5,7 +5,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Syed Hadi"
-        self.role = "Computer Science Student"
+        self.role = "3rd.yr Computer Science Student"
         self.school = "Toronto Metropolitan University 🇨🇦"
 
     def say_hi(self):
