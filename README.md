@@ -1,5 +1,6 @@
 <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
   Hi 👋. I'm Syed Hadi
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="22" alt="Canada Flag"/>
 </p>
 
 I'm currently a Computer Science co-op student at Toronto Metropolitan University (TMU). I love learning new technologies, building side projects, and continuously improving my software engineering skills.
