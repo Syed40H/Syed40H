@@ -1,4 +1,4 @@
-<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
+> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H) <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
   Hey there👋
 </p>
 
@@ -36,6 +36,6 @@ Currently learning Docker, Kubernetes, Cloud Computing, and System Design
   <li>Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)</li>
 </ul>
 
----
+--- 
 
-> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H) *"Seeking Software Engineering Internship opportunities"*
+ *"Seeking Software Engineering Internship opportunities"*
