@@ -21,17 +21,3 @@ I'm currently a Computer Science co-op student at Toronto Metropolitan Universit
 </ul>
 
 I'm currently learning Kubernetes, Docker, system design, and cloud technologies while building personal projects to strengthen my software engineering experience. I'm actively seeking Software Engineering internship opportunities where I can learn, grow, and contribute to impactful products.
-
-<h4> Languages & Tools</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,express,mongodb,firebase,docker,kubernetes,git" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syed40H&layout=compact&theme=dracula" />
-</p>
-
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H" />
-</p>
