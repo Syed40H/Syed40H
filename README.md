@@ -1,4 +1,4 @@
-<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
+<p align="right" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
   Hey there👋
 </p>
 
@@ -38,4 +38,6 @@ Currently learning Docker, Kubernetes, Cloud Computing, and System Design
 
 --- 
 
- *"Seeking Software Engineering Internship opportunities"*
+ *"Seeking Software Engineering Internship opportunities"* <p align="right" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #007bff;">
+  Hey there👋
+</p>
