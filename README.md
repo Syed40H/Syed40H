@@ -17,7 +17,7 @@ me.say_hi()
 # Currently learning Docker, Kubernetes, Cloud Computing, and System Design
 # *"Seeking Software Engineering Internship opportunities"*
 ```
-** Interests: Full-Stack - Cloud Computing - DevOps **
+** Full-Stack - Cloud Computing - DevOps **
 
 <ul>
   <li>Tech (Java, C++, Python, JavaScript, React, Node.js, Express)</li>
