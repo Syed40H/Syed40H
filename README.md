@@ -1,79 +1,73 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt&fontColor=FFFFFF" />
+
+# Hi 👋, I'm Syed Hadi
+
+### Computer Science Student @ Toronto Metropolitan University
+
+💻 Aspiring Software Engineer passionate about building scalable applications and solving real-world problems.
+
+🎯 Seeking Software Engineering Internship opportunities where I can learn, grow, and make an impact.
+
+[Portfolio](https://syed40h.github.io/Portfolio/) •
+[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) •
+[Email](mailto:YOUR_EMAIL)
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+I'm currently a **Computer Science Co-op student** at **Toronto Metropolitan University** with a strong interest in software engineering and backend development. I enjoy building projects, learning new technologies, and continuously improving my problem-solving skills through hands-on experience and coding challenges.
+
+## 🚀 Interests
+
+- Backend Development
+- Full-Stack Web Development
+- Cloud Computing & DevOps
+- Software Architecture & System Design
+- Algorithms & Data Structures
+
+## 💻 Skills
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,sql" />
+</p>
+
+**Frameworks & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,git,github,vscode" />
+</p>
+
+## 🌱 Currently Learning
+
+- Kubernetes & Docker
+- System Design
+- Cloud Infrastructure
+- Backend Engineering
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syed40H&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Syed40H&show_icons=true&theme=dracula" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syed40H&layout=compact&theme=dracula" height="165"/>
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
 
-###
+![](https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H)
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Hi, I’m Syed Hadi, a first-year co-op student at Toronto Metropolitan University (TMU) with a deep passion for Software Engineering.<br>🎓 I’m pursuing a Computer Science degree, aiming to graduate in 2028.<br>📚 Learn more about me @https://syed40h.github.io/Portfolio/<br>🎯 Seeking high-impact SWE Internship roles where I can grow fast and build smarter</p>
-
-###
-
-<h3 align="left">💻 Currently Working With</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Syed40H.Syed40H&"  />
-
-###
-
-<p align="left">I just wanna make alot of money and tell people money isn't everything 😇</p>
-
-###
+> *"Always building, always learning."*
