@@ -15,7 +15,7 @@ me = SoftwareEngineer()
 me.say_hi()
 
 # Currently learning Docker, Kubernetes, Cloud Computing, and System Design
-.Seeking Software Engineering Internship opportunities"*
+*Seeking. Software Engineering Internship opportunities*
 # Tech (Java, C++, Python, JavaScript, React, Node.js, Express)
 # Databases & Tools (MongoDB, Firebase, Git, Docker, Kubernetes)
 ```
